@@ -46,14 +46,14 @@ cat > /home/claude/README.md << 'README_EOF'
 - [🌟 Overview](#-overview)
 - [👨‍💻 About Me](#-about-me)
 - [🚀 Projects](#-projects)
-  - [📌 Task Management Web App](#-task-management-web-app)
-  - [📌 TEYZIX CORE Internship Portal](#-teyzix-core-internship-portal)
-  - [📌 Real-Time Collaborative Document Editor](#-real-time-collaborative-document-editor)
+  - [📌 Task Management Web App](https://github.com/YasirAwan4831/taskflow-kanban-app--fs1-)
+  - [📌 TEYZIX CORE Internship Portal](https://github.com/YasirAwan4831/teyzix-core-internship-portal-fs2)
+  - [📌 Real-Time Collaborative Document Editor](https://github.com/YasirAwan4831/rt-collaborative-doc-editor-fs3)
 - [🏆 Achievements](#-achievements)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [📊 GitHub Stats](#-github-stats)
 - [🔗 Social Links](#-social-links)
-- [📄 License](#-license)
+
 
 ---
 

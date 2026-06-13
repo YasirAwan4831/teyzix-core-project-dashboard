@@ -55,7 +55,7 @@ const DATA = {
       iconClass: 'gold',
       btnClass: 'gold-btn',
       btnLabel: 'View Certificate',
-      date: '2025 · TEYZIX CORE',
+      date: '2026 · TEYZIX CORE',
     },
     {
       id: 'rec',
@@ -66,7 +66,7 @@ const DATA = {
       iconClass: 'blue',
       btnClass: 'blue-btn',
       btnLabel: 'View Letter',
-      date: '2025 · TEYZIX CORE',
+      date: '2026 · TEYZIX CORE',
     },
   ],
 
@@ -81,7 +81,7 @@ const DATA = {
     { label: 'Email',      handle: 'my3154831409@gmail.com',   icon: '✉️', color: '#F59E0B', url: 'mailto:yasirawan4831@gmail.com' },
   ],
 
-  password: 'Teyzix@2025',
+  password: 'Teyzix@2026',
 };
 
 /* ═══════════════════════════════════════════════════════
@@ -531,6 +531,7 @@ function initTypewriter() {
     '// MERN Stack Engineer',
     '// React + Node.js Builder',
     '// Real-Time Systems Dev',
+    '// AI & Automation Enthusiast',
   ];
   let phraseIdx = 0, charIdx = 0, deleting = false;
 
