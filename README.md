@@ -35,6 +35,12 @@ cat > /home/claude/README.md << 'README_EOF'
 
 ---
 
+##  Live Preview
+
+🌐 https://teyzixcoreprojects.vercel.app/
+
+---
+
 ## 📋 Table of Contents
 
 - [🌟 Overview](#-overview)
